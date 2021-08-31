@@ -1,4 +1,4 @@
-# Super Ores Mod Minecraft
+# Super Ores Mod for Minecraft V1.16.5
 A repository for the storing of the .JAR minecraft mod file for mod downloading and redistribution.
 
 
